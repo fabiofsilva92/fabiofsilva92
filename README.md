@@ -10,7 +10,8 @@
 
 :house_with_garden: I’m 29 years old brazilian guy diving into IT world.
 
-:books: I’m currently working as a GFT Starter, learning and developing with Java.
+- 🔭 I’m currently working on Java Projects, learning a lot in my internship at GFT Group ...
+- 😄 Pronouns: He/Him
 
 <!--:outbox_tray: 2021 Goals: create a news projects in differents tecnology.!-->
 
