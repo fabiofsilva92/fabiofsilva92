@@ -12,7 +12,7 @@
 
 :books: I’m currently working as a GFT Starter, learning and developing with Java.
 
-:outbox_tray: 2021 Goals: create a news projects in differents tecnology.
+<!--:outbox_tray: 2021 Goals: create a news projects in differents tecnology.!-->
 
 ## About me
 
