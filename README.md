@@ -8,12 +8,12 @@
 
  
 
-:house_with_garden: I’m 29 years old brazilian guy diving into IT world.
+:house_with_garden: I’m 30 years old brazilian guy diving into IT world.
 
-- 🔭 I’m currently working on Java Projects, learning a lot in my internship at GFT Group ...
+- 🔭 I’m currently working on Java Projects ...
 - 😄 Pronouns: He/Him
 
-<!--:outbox_tray: 2021 Goals: create a news projects in differents tecnology.!-->
+<!--:outbox_tray: 2023 Goals: create meaninful projects in differents tecnology.!-->
 
 ## About me
 
